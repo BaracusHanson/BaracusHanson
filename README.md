@@ -15,6 +15,4 @@
 <a href="https://discord.gg/BaracusHanson" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="BaracusHanson" height="30" width="40" /></a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=baracushanson&show_icons=true&locale=en&layout=compact" alt="baracushanson" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=baracushanson&show_icons=true&locale=en" alt="baracushanson" /></p>
